@@ -124,11 +124,11 @@ I'm a passionate developer with expertise in **full-stack development**, **machi
 
 ### Programming Languages
 ```
-Python      ████████████████████ 40%    (ML, Backend, Data)
-JavaScript  ██████████░░░░░░░░░░ 25%    (Frontend, Web3)
-C++         ████████░░░░░░░░░░░░ 20%    (Systems, Embedded)
-Solidity    ████░░░░░░░░░░░░░░░░ 10%    (Smart Contracts)
-SQL/NoSQL   ████████░░░░░░░░░░░░ 15%    (Databases)
+Python         (ML, Backend, Data)
+JavaScript     (Frontend, Web3)
+C++            (Systems, Embedded)
+Solidity       (Smart Contracts)
+SQL/NoSQL      (Databases)
 ```
 
 ### Core Technologies
