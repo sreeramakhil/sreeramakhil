@@ -1,75 +1,150 @@
-# Sreeram Akhil
+# 🚀 Sreeram Akhil
 
-> **Full-Stack Developer** • **ML Engineer** • **Web3 Builder** • **IoT Enthusiast**
+<div align="center">
 
 ```
-┌─────────────────────────────────┐
-│  Building Intelligent Systems   │
-│  ML • Blockchain • Full-Stack   │
-└─────────────────────────────────┘
+╔═══════════════════════════════════╗
+║  FULL-STACK • ML • WEB3 • IoT      ║
+║  Building Intelligent Systems     ║
+╚═══════════════════════════════════╝
+```
+
+**[🌐 Portfolio](#featured-work)** • **[💼 LinkedIn](https://linkedin.com/in/sreeramakhil)** • **[📧 Email](mailto:akhilsreeram663@gmail.com)**
+
+</div>
+
+---
+
+## 💫 Who I Am
+
+A **polymath engineer** crafting intelligent solutions across **5 domains**:
+- 🤖 **AI/ML** → Computer Vision, Deep Learning, Geospatial Analysis
+- 🔗 **Web3** → Smart Contracts, DeFi, Blockchain Architecture  
+- 💻 **Full-Stack** → Frontend-to-Backend, Production Systems
+- 📡 **IoT** → Embedded Systems, Real-time Communication
+- 📊 **Data Engineering** → Streaming, Distributed Systems
+
+---
+
+## 🏆 Featured Work
+
+<table>
+<tr>
+  <td width="50%">
+
+### 🌾 AgriLens
+**AI Precision Agriculture**
+
+- 🔬 Vision Transformers
+- 🛰️ Satellite Imagery Analysis  
+- 🚀 FastAPI Production
+
+[Live](https://agrilens-two.vercel.app) • [Code](https://github.com/sreeramakhil/agrilens)
+
+  </td>
+  <td width="50%">
+
+### 🔐 SecureAttend
+**Blockchain Attendance**
+
+- ⛓️ Ethereum Smart Contracts
+- 🔐 Role-Based Access Control
+- 📊 Real-time Dashboard
+
+[Live](https://securattend.vercel.app) • [Code](https://github.com/sreeramakhil/securattend)
+
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+
+### 🚗 V2V Communication
+**IoT Safety Network**
+
+- 📍 Real-time GPS Tracking
+- 📡 1000m+ Wireless Mesh
+- ⚡ <100ms Latency
+
+[Code](https://github.com/sreeramakhil/Vehicle-to-vehicle-Communication)
+
+  </td>
+  <td width="50%">
+
+### 📊 Kafka Streaming
+**Enterprise Data Pipeline**
+
+- 🔄 Dynamic Topics
+- 📨 Producer-Consumer
+- 🌐 Admin Dashboard
+
+[Code](https://github.com/sreeramakhil/Dynamic-Content-Stream-with-Kafka)
+
+  </td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Arsenal
+
+```python
+# 🎯 What I Build With
+
+🔴 AI/ML         │ PyTorch, TensorFlow, Computer Vision, NLP, Geospatial
+🔵 Blockchain    │ Solidity, Web3.py/js, Ethereum, Polygon, DeFi
+🟢 Backend       │ FastAPI, Flask, Django, Node.js, Microservices
+🟡 Frontend      │ React, HTML5, CSS3, Responsive Design, Web3 Integration
+🟣 Data          │ Apache Kafka, PostgreSQL, MongoDB, Redis
+🟠 Infrastructure│ Docker, Kubernetes, GitHub Actions, AWS, Vercel
+🟤 Embedded      │ Arduino, C++, Real-time Systems, GPS, RF Communication
 ```
 
 ---
 
-## ⚡ Quick Overview
+## 📊 By The Numbers
 
-| 🤖 | 🔗 | 💻 | 📡 | 📊 |
-|----|----|----|----|-----|
-| **ML & AI** | **Blockchain** | **Full-Stack** | **IoT** | **Data** |
-| PyTorch, Vision Transformers | Solidity, Web3 | React, FastAPI | Arduino, GPS | Kafka, Real-time |
+<div align="center">
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=sreeramakhil&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&text_color=58a6ff&hide_border=true)
 
-## 🎯 Featured Work
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramakhil&theme=tokyonight&layout=compact&bg_color=0d1117&text_color=58a6ff&hide_border=true)
 
-### 🌾 **AgriLens** — Precision Agriculture AI
-Production-grade deep learning for crop analysis • PyTorch • FastAPI • Deployed
-> [Live Demo](https://agrilens-two.vercel.app) · [Code](https://github.com/sreeramakhil/agrilens)
-
-### 🔐 **SecureAttend** — Blockchain Attendance
-Ethereum smart contracts + Full-stack dashboard • Solidity • React • Production
-> [Live Demo](https://securattend.vercel.app) · [Code](https://github.com/sreeramakhil/securattend)
-
-### 🚗 **V2V Communication** — Real-Time IoT Safety
-1000m+ wireless mesh network • Arduino • C++ • Low-latency collision prevention
-> [Code](https://github.com/sreeramakhil/Vehicle-to-vehicle-Communication)
-
-### 📊 **Kafka Streaming Pipeline** — Enterprise Data
-Dynamic topic management • Producer-Consumer • Flask admin dashboard
-> [Code](https://github.com/sreeramakhil/Dynamic-Content-Stream-with-Kafka)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What's Next?
 
-**Languages:** Python • JavaScript • C++ • Solidity  
-**ML/AI:** PyTorch • TensorFlow • Computer Vision • NLP • Geospatial  
-**Web3:** Smart Contracts • Web3.py/js • Ethereum/Polygon  
-**Backend:** FastAPI • Flask • Django • Node.js  
-**Frontend:** React • HTML5 • CSS3  
-**Data:** Apache Kafka • PostgreSQL • MongoDB • Redis  
-**Infrastructure:** Docker • Kubernetes • GitHub Actions • AWS • Vercel  
-
----
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeramakhil&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramakhil&theme=radical&layout=compact)
+| Project | Status | Focus |
+|---------|--------|-------|
+| 🌾 **AgriLens** | 🔄 Active | Multi-temporal Analysis + Vision Transformers |
+| 🔐 **SecureAttend** | 📈 Expanding | Federated Learning + Advanced Analytics |
+| 🚗 **V2V System** | ⚡ Upgrading | LiDAR Integration + Autonomous Features |
+| 📊 **Kafka Pipeline** | ⚙️ Optimizing | Auto-scaling + Performance Tuning |
 
 ---
 
-## 🔗 Connect
+## 🤝 Let's Connect
 
-📧 **Email:** [akhilsreeram663@gmail.com](mailto:akhilsreeram663@gmail.com)  
-🔗 **LinkedIn:** [sreeramakhil](https://linkedin.com/in/sreeramakhil)  
-💻 **GitHub:** [@sreeramakhil](https://github.com/sreeramakhil)  
+<div align="center">
+
+I'm interested in:
+- 🎯 **Innovative Challenges** — Complex problems at scale
+- 🔬 **Cutting-edge Tech** — AI, Web3, Real-time Systems  
+- 🌍 **Impact Projects** — Building solutions that matter
+- 👥 **Collaboration** — Open source & team projects
+
+**→ [Email](mailto:akhilsreeram663@gmail.com) | [GitHub](https://github.com/sreeramakhil) | [LinkedIn](https://linkedin.com/in/sreeramakhil)**
 
 ---
 
 <div align="center">
 
-**⭐ If you like my work, consider starring my repos!**
+```
+> Code is Poetry
+> Products are Art
+> Systems are Symphonies
+```
 
 Made with ❤️ by Sreeram Akhil
 
