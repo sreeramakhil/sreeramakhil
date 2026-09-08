@@ -9,7 +9,7 @@
 ╚═══════════════════════════════════╝
 ```
 
-**[🌐 Portfolio](#featured-work)** • **[💼 LinkedIn](https://linkedin.com/in/sreeramakhil)** • **[📧 Email](mailto:akhilsreeram663@gmail.com)**
+**[🌐 Portfolio](https://akhil2port.netlify.app/)** • **[💼 LinkedIn](https://linkedin.com/in/sreeramakhil)** • **[📧 Email](mailto:akhilsreeram663@gmail.com)**
 
 </div>
 
